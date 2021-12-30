@@ -1,0 +1,29 @@
+#tong{
+	background-color: #f8e3f9;
+	width: 100%;
+	height: 800px;
+}
+#giua{
+	background-color: ghostwhite;
+	width: 500px;
+	height: 550px;
+	position: absolute;
+	top: 5%;
+	left: 35%;
+}
+#tren{
+	background-color: #6600cc;
+	width: 100%;
+	height: 15%;
+	position: relative;
+}
+.le{
+	margin: 10px 0px 10px 30px;
+}
+#input:hover{
+ border-bottom: 2px solid purple;
+}
+#input{
+	border: none;
+	width: 90%;
+}
